@@ -1,12 +1,6 @@
 <template>
   <div class="app">
     <p>{{ name }}</p>
-    <a href="/" target="_blank">Home</a>
-    <a href="/" target="_blank">Home</a>
-    <a href="/" target="_blank">Home</a>
-    <a href="/" target="_blank">Home</a>
-    <a href="/" target="_blank">Home</a>
-    <a href="/" target="_blank">Home</a>
   </div>
 </template>
 
